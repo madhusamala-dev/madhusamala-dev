@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu Samala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer and Trainer</h3>
 
 - 🔭 I’m currently working on **TrainingMug Practice Platform**
 
